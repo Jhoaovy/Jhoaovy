@@ -18,7 +18,7 @@ Desenvolvo projetos utilizando Java, HTML e Python, sempre buscando aprender mai
 <h3 align="left">Contate-me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joaovvitor2006@hotmail.com)
-[![Contact](https://img.shields.io/badge/-contact-000?style=for-the-badge&logo=contact&logoColor=FF00F6&color:FFF)](https://wa.me/+5531985374765)
+[![Contact](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=contact&logoColor=FF00F6&color:FFF)](https://wa.me/+5531985374765)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/joao.dlk/)
 
 
@@ -64,8 +64,4 @@ Desenvolvo projetos utilizando Java, HTML e Python, sempre buscando aprender mai
    style="padding-right: 1-px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     />
-
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=Jhoaovy&show_icons=false&theme=dark&incloude_all_commits=count_private=true"/>
-    <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=Jhoavy&layout=compact&langs_count=16&theme=dark"/>
-          
           
